@@ -51,8 +51,8 @@
       Yaratdığımız attributu istifadə edə bilmək üçün uyğun yerlərdə, yəni biz attributu yaradarkən istifadə yerlərini bəyan etdiyimiz yerlərdə, çağırmalıyıq.
     </p>
 
-  <div style="width: 600px;">
-      <img src="https://github.com/user-attachments/assets/6054da97-5605-415b-8c5a-1c9930eb7745" style="width: 600px;" alt="">
+  <div style="width: 300px;">
+      <img src="https://github.com/user-attachments/assets/6054da97-5605-415b-8c5a-1c9930eb7745" style="width: 300px;" alt="">
 
   </div>
 
